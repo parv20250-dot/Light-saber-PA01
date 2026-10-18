@@ -137,6 +137,8 @@ Worked on sorting out the electronic components first I made a schematic in orde
 I decided to try add grooves on the battery bay too, however that looked odd, therefore I changed the grooves to vertical lines that will be painted silver.
 
 ![battery bay](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/ba943279b62dbdeab6344442b648197f0a4ce28ad67d79651d6e2d0916129748.png)
+![1000161165](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/b8dcb1200eda3f949da9125b5f5884a7e7236d60c32ff14373660fc02dff361c.jpg)
+Old battery bay
 
 ![new battery bay](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/475bb07e3c033d4a606f8f59fc4bc4b3e340bab8f110e3f38a9d3c9770fddf90.png)
 The new battery bay
