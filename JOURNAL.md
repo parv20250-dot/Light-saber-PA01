@@ -22,7 +22,7 @@
 6. [2026-10-18 – Worked on sorting out the electronic components first I made a schematic in order to see what would connect to what, then later on I create the battery bay, aligning the battery bay (I realised the ba](#2026-10-18-worked-on-sorting-out-the-electronic-components-f)
 7. [2026-10-18 – I added the two replaceable hilt covers to my design and carved patterns onto them. I STRUGGLE with one stubborn hexagon before I realise that I can just.....select the bodies together before atternin](#2026-10-18-i-added-the-two-replaceable-hilt-covers-to-my-des)
 8. [2026-10-18 – Work session](#2026-10-18-work-session)
-9. [2026-10-18 – Work session](#2026-10-18-work-session)
+9. [2026-10-18 – I try to add a cylinder  on one side of the hilt and a socket on the other so as to allow them to join together, however I later realise that the walls are incredibly thin.  I continue trying differen](#2026-10-18-i-try-to-add-a-cylinder-on-one-side-of-the-hilt-a)
 10. [2026-10-18 – I spend some time updating my read me, getting my files in order and checking everything one last time, which took me a bit, k fine a WHILE the fact that I KEPT checking the alignments of my component](#2026-10-18-i-spend-some-time-updating-my-read-me-getting-my-)
 
 ## Design
@@ -177,9 +177,11 @@ Work session
 
 [Timelapse](https://lookout.hackclub.com/api/media/0ecaef68-ee5b-47b8-8826-3eeaed7e03a3/video.mp4)
 
-### 2026-10-18 – Work session
+### 2026-10-18 – I try to add a cylinder  on one side of the hilt and a socket on the other so as to allow them to join together, however I later realise that the walls are incredibly thin.  I continue trying differen
 
 **0.88h**
+
+I try to add a cylinder  on one side of the hilt and a socket on the other so as to allow them to join together, however I later realise that the walls are incredibly thin.  I continue trying different methods to do so.
 
 [Timelapse](https://lookout.hackclub.com/api/media/93c1ad4f-5f1f-45ee-9aba-b54287a78823/video.mp4)
 
