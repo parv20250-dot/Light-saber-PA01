@@ -18,7 +18,7 @@
 2. [2026-10-14 – I learnt and figured out the basics of fusion, I struggle with trying to figure out how to set dimensions and also how to align things with respect to the axes (this takes me a while to understand). I](#2026-10-14-i-learnt-and-figured-out-the-basics-of-fusion-i-s)
 3. [2026-10-15 – Now that I was done with the hilt I moved onto the next part of my problem, the retractable blade part. I had a few ideas however I was unsure how to proceed, some investigating later I decided that I](#2026-10-15-now-that-i-was-done-with-the-hilt-i-moved-onto-th)
 4. [2026-10-16 – Now that I was done with the modelling and had a rough idea of what I was doing, I now moved onto working on my retractable blade in my model, the blades were hollow cylinders that had different radii](#2026-10-16-now-that-i-was-done-with-the-modelling-and-had-a-)
-5. [2026-10-17 – There were a few interferences that had to be fixed by moving the components around, as I did this I noticed a mysterious gap in between my components (therefore, I moved components around some more t](#2026-10-17-there-were-a-few-interferences-that-had-to-be-fix)
+5. [2026-10-17 – ![1000161077](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/1c7813ae9b4be9d4cbb73a37d961c5bfc34cab3e75633479e833437ffe84d124.jpg)](#2026-10-17-1000161077httpshalflifehackclub-assetscomhackclub)
 6. [2026-10-18 – Work session](#2026-10-18-work-session)
 7. [2026-10-18 – Work session](#2026-10-18-work-session)
 8. [2026-10-18 – Work session](#2026-10-18-work-session)
@@ -92,9 +92,29 @@ While doing the extended version blade 4 somehow ended up 1000s of mm away there
 
 [Timelapse](https://lookout.hackclub.com/api/media/d760de7c-672b-41a9-bc1a-37dbdb084b69/video.mp4)
 
-### 2026-10-17 – There were a few interferences that had to be fixed by moving the components around, as I did this I noticed a mysterious gap in between my components (therefore, I moved components around some more t
+### 2026-10-17 – ![1000161077](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/1c7813ae9b4be9d4cbb73a37d961c5bfc34cab3e75633479e833437ffe84d124.jpg)
 
 **0.82h**
+
+![1000161077](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/1c7813ae9b4be9d4cbb73a37d961c5bfc34cab3e75633479e833437ffe84d124.jpg)
+
+![1000161076](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/73d298464af60a8bc1d54a77a2151946d335195574bba3d71425b6e390f063d0.jpg)
+
+![1000161075](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/eab7d961c22edc5385039ff5ba9bcd7c34d0bfa01913e3bff4325906afb3d746.jpg)
+
+![1000161079](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/e6fb7d61ca6899e05993981161ecbeb3648a7ecd53e17d4615fd85a399269500.jpg)
+
+![1000161078](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/ed563e6566d55979eaff3b127be8c9b928aaf769d8977129c868a94c8ce90e8c.jpg)
+
+![1000161095](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/409d5dd11ea086818d126dd2698a2a3fa71267f8dffea4dd9faba554e5576d69.jpg)
+
+![1000161092](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/903daa2e3e7d1c1351cc402118a413487e5bcbe338d5f7e83e096cf067bcfe7e.jpg)
+
+![1000161090](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/6abbfeb9690dd350c3da3f9686bc87eb611d7f09cddcd2c098da03506748af83.jpg)
+
+![1000161084](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/b5810091acb7dc304189c84fcfa1b2d2ae4c632f0ea5856b06224eb8666ba95e.jpg)
+
+![1000161081](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/c5fdebe44b2eb5ed56adb1682e5d4d7f57ff19c515c729917e14c24ffa6dade6.jpg)
 
 There were a few interferences that had to be fixed by moving the components around, as I did this I noticed a mysterious gap in between my components (therefore, I moved components around some more to fix this).
 
