@@ -183,6 +183,10 @@ Work session
 
 I try to add a cylinder  on one side of the hilt and a socket on the other so as to allow them to join together, however I later realise that the walls are incredibly thin.  I continue trying different methods to do so.
 
+![1000161166](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/514646abad4488fccfeb9a878ad10440a6eecb2b997e7070a955f5097f55279a.jpg)
+
+![1000161167](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/f1662bef08bb695d9af3ddda3d3c81a379a8eb0578a955f5dc34a3e08f2312c2.jpg)
+
 [Timelapse](https://lookout.hackclub.com/api/media/93c1ad4f-5f1f-45ee-9aba-b54287a78823/video.mp4)
 
 ### 2026-10-18 – I spend some time updating my read me, getting my files in order and checking everything one last time, which took me a bit, k fine a WHILE the fact that I KEPT checking the alignments of my component
