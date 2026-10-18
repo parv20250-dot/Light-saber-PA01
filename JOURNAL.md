@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-14 – Okay so initially I planned to make an iron man inspired robot hand I had a sketch and everything before I realised that this was way outside my skill set cuz well I had very little experience with 3d](#2026-10-14-okay-so-initially-i-planned-to-make-an-iron-man-i)
-2. [2026-10-14 – Work session](#2026-10-14-work-session)
+2. [2026-10-14 – I learnt and figured out the basics of fusion, I struggle with trying to figure out how to set dimensions and also how to align things with respect to the axes (this takes me a while to understand). I](#2026-10-14-i-learnt-and-figured-out-the-basics-of-fusion-i-s)
 3. [2026-10-15 – Now that I was done with the hilt I moved onto the next part of my problem, the retractable blade part. I had a few ideas however I was unsure how to proceed, some investigating later I decided that I](#2026-10-15-now-that-i-was-done-with-the-hilt-i-moved-onto-th)
 4. [2026-10-16 – Work session](#2026-10-16-work-session)
 5. [2026-10-17 – Work session](#2026-10-17-work-session)
@@ -39,9 +39,16 @@ Okay so initially I planned to make an iron man inspired robot hand I had a sket
 
 ![1000158969](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/ec05e4599c04c957687e40d040da741b3aba190eb6f128613b663925cbd6238c.jpg)
 
-### 2026-10-14 – Work session
+### 2026-10-14 – I learnt and figured out the basics of fusion, I struggle with trying to figure out how to set dimensions and also how to align things with respect to the axes (this takes me a while to understand). I
 
 **1.58h**
+
+I learnt and figured out the basics of fusion, I struggle with trying to figure out how to set dimensions and also how to align things with respect to the axes (this takes me a while to understand). I would keep getting overstretched errors , till i realised I am supposed to edit the dimensions NOT pull em along.
+
+![hour 1 ss](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/d981f0d1a2b055090cf96cbf51ef7fa9bfe1594cc37976abc708202f3e782130.png)
+Hour 1 ss
+![hour2](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/b8f98f3bd884c92fe14faf86b33a0c343c02dad2d44e40112a42da99538e2e95.png)
+Hour1.5-2 ss
 
 [Timelapse](https://lookout.hackclub.com/api/media/3eafe6af-ad12-48fe-9153-b471b4a10055/video.mp4)
 
