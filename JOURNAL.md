@@ -19,7 +19,7 @@
 3. [2026-10-15 – Now that I was done with the hilt I moved onto the next part of my problem, the retractable blade part. I had a few ideas however I was unsure how to proceed, some investigating later I decided that I](#2026-10-15-now-that-i-was-done-with-the-hilt-i-moved-onto-th)
 4. [2026-10-16 – Now that I was done with the modelling and had a rough idea of what I was doing, I now moved onto working on my retractable blade in my model, the blades were hollow cylinders that had different radii](#2026-10-16-now-that-i-was-done-with-the-modelling-and-had-a-)
 5. [2026-10-17 – ![1000161077](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/1c7813ae9b4be9d4cbb73a37d961c5bfc34cab3e75633479e833437ffe84d124.jpg)](#2026-10-17-1000161077httpshalflifehackclub-assetscomhackclub)
-6. [2026-10-18 – Work session](#2026-10-18-work-session)
+6. [2026-10-18 – Worked on sorting out the electronic components first I made a schematic in order to see what would connect to what, then later on I create the battery bay, aligning the battery bay (I realised the ba](#2026-10-18-worked-on-sorting-out-the-electronic-components-f)
 7. [2026-10-18 – Work session](#2026-10-18-work-session)
 8. [2026-10-18 – Work session](#2026-10-18-work-session)
 9. [2026-10-18 – Work session](#2026-10-18-work-session)
@@ -126,11 +126,13 @@ Next on my string of misfortunes was something which I still do not understand, 
 
 [Timelapse](https://lookout.hackclub.com/api/media/14d8ac99-9530-4d74-b16a-4614b63c79c1/video.mp4)
 
-### 2026-10-18 – Work session
+### 2026-10-18 – Worked on sorting out the electronic components first I made a schematic in order to see what would connect to what, then later on I create the battery bay, aligning the battery bay (I realised the ba
 
 **2.18h**
 
-Work session
+Worked on sorting out the electronic components first I made a schematic in order to see what would connect to what, then later on I create the battery bay, aligning the battery bay (I realised the base of my  sword needed a base to hold the led in place A WHILE IN) and ensuring everything was in place was hard....but I faced my biggest challenge from the smallest part of the whole thing- the button. The button while small, had different sizes which meant I could not just use a singular circular hole to hold it in place.
+
+![electrical components](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/8de636f253fcfdd6ff5645656e962c1c35ea99064afdb9d7bd654941d298dd17.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/2f7016d3-53ff-48d5-b9bc-d19722e7b92d/video.mp4)
 
