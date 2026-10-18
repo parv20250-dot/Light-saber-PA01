@@ -173,6 +173,8 @@ I added the two replaceable hilt covers to my design and carved patterns onto th
 
 **0.48h**
 
+Work session
+
 [Timelapse](https://lookout.hackclub.com/api/media/0ecaef68-ee5b-47b8-8826-3eeaed7e03a3/video.mp4)
 
 ### 2026-10-18 – Work session
