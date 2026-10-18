@@ -86,6 +86,8 @@ Now that I was done with the modelling and had a rough idea of what I was doing,
 
 ![lightsaber extended](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/b9c2ff516ca3d5a92b9496004d372bbe17af27bf7941577ebf4dbd6a94ad72d2.png)
 
+While doing the extended version blade 4 somehow ended up 1000s of mm away therefore, had to hunt it down which took me a while to find it and fix that.
+
 [Timelapse](https://lookout.hackclub.com/api/media/86160d37-7893-4af3-8c20-46f255d18118/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/d760de7c-672b-41a9-bc1a-37dbdb084b69/video.mp4)
