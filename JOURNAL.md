@@ -18,7 +18,7 @@
 2. [2026-10-14 – I learnt and figured out the basics of fusion, I struggle with trying to figure out how to set dimensions and also how to align things with respect to the axes (this takes me a while to understand). I](#2026-10-14-i-learnt-and-figured-out-the-basics-of-fusion-i-s)
 3. [2026-10-15 – Now that I was done with the hilt I moved onto the next part of my problem, the retractable blade part. I had a few ideas however I was unsure how to proceed, some investigating later I decided that I](#2026-10-15-now-that-i-was-done-with-the-hilt-i-moved-onto-th)
 4. [2026-10-16 – Now that I was done with the modelling and had a rough idea of what I was doing, I now moved onto working on my retractable blade in my model, the blades were hollow cylinders that had different radii](#2026-10-16-now-that-i-was-done-with-the-modelling-and-had-a-)
-5. [2026-10-17 – Work session](#2026-10-17-work-session)
+5. [2026-10-17 – There was an odd interference that had to be fixed and](#2026-10-17-there-was-an-odd-interference-that-had-to-be-fixe)
 6. [2026-10-18 – Work session](#2026-10-18-work-session)
 7. [2026-10-18 – Work session](#2026-10-18-work-session)
 8. [2026-10-18 – Work session](#2026-10-18-work-session)
@@ -92,11 +92,11 @@ While doing the extended version blade 4 somehow ended up 1000s of mm away there
 
 [Timelapse](https://lookout.hackclub.com/api/media/d760de7c-672b-41a9-bc1a-37dbdb084b69/video.mp4)
 
-### 2026-10-17 – Work session
+### 2026-10-17 – There was an odd interference that had to be fixed and
 
 **0.82h**
 
-Work session
+There was an odd interference that had to be fixed and
 
 [Timelapse](https://lookout.hackclub.com/api/media/56f8b491-45f9-4cfb-8fe3-a79aebc2b22f/video.mp4)
 
