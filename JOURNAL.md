@@ -19,7 +19,7 @@
 3. [2026-10-15 – Now that I was done with the hilt I moved onto the next part of my problem, the retractable blade part. I had a few ideas however I was unsure how to proceed, some investigating later I decided that I](#2026-10-15-now-that-i-was-done-with-the-hilt-i-moved-onto-th)
 4. [2026-10-16 – Now that I was done with the modelling and had a rough idea of what I was doing, I now moved onto working on my retractable blade in my model, the blades were hollow cylinders that had different radii](#2026-10-16-now-that-i-was-done-with-the-modelling-and-had-a-)
 5. [2026-10-17 – ![1000161077](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/1c7813ae9b4be9d4cbb73a37d961c5bfc34cab3e75633479e833437ffe84d124.jpg)](#2026-10-17-1000161077httpshalflifehackclub-assetscomhackclub)
-6. [2026-10-18 – ![1000161157](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/0aba066b12742b1b89053ac0d5025cf7299484d1c3b2e14d00468773be9dfc94.jpg)](#2026-10-18-1000161157httpshalflifehackclub-assetscomhackclub)
+6. [2026-10-18 – Worked on sorting out the electronic components first I made a schematic in order to see what would connect to what, then later on I create the battery bay, aligning the battery bay (I realised the ba](#2026-10-18-worked-on-sorting-out-the-electronic-components-f)
 7. [2026-10-18 – Work session](#2026-10-18-work-session)
 8. [2026-10-18 – Work session](#2026-10-18-work-session)
 9. [2026-10-18 – Work session](#2026-10-18-work-session)
@@ -126,17 +126,9 @@ Next on my string of misfortunes was something which I still do not understand, 
 
 [Timelapse](https://lookout.hackclub.com/api/media/14d8ac99-9530-4d74-b16a-4614b63c79c1/video.mp4)
 
-### 2026-10-18 – ![1000161157](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/0aba066b12742b1b89053ac0d5025cf7299484d1c3b2e14d00468773be9dfc94.jpg)
+### 2026-10-18 – Worked on sorting out the electronic components first I made a schematic in order to see what would connect to what, then later on I create the battery bay, aligning the battery bay (I realised the ba
 
 **2.18h**
-
-![1000161157](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/0aba066b12742b1b89053ac0d5025cf7299484d1c3b2e14d00468773be9dfc94.jpg)
-
-![1000161159](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/647793b796f43ed618e239167ec4452c10b1eb6f5e194275f5c2e446b658cf99.jpg)
-
-![1000161161](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/fe7951b0c57b91e71151e37d0a122f6e011213d5d1d1b018624f75752a384571.jpg)
-
-![1000161163](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/3c80317c54bc196b5945518791884e4ca57f9025852f1d7af53f46e2c539e196.jpg)
 
 Worked on sorting out the electronic components first I made a schematic in order to see what would connect to what, then later on I create the battery bay, aligning the battery bay (I realised the base of my  sword needed a base to hold the led in place A WHILE IN) and ensuring everything was in place was hard....but I faced my biggest challenge from the smallest part of the whole thing- the button. The button while small, had different sizes which meant I could not just use a singular circular hole to hold it in place.
 
