@@ -20,7 +20,7 @@
 4. [2026-10-16 – Now that I was done with the modelling and had a rough idea of what I was doing, I now moved onto working on my retractable blade in my model, the blades were hollow cylinders that had different radii](#2026-10-16-now-that-i-was-done-with-the-modelling-and-had-a-)
 5. [2026-10-17 – ![1000161077](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/1c7813ae9b4be9d4cbb73a37d961c5bfc34cab3e75633479e833437ffe84d124.jpg)](#2026-10-17-1000161077httpshalflifehackclub-assetscomhackclub)
 6. [2026-10-18 – Worked on sorting out the electronic components first I made a schematic in order to see what would connect to what, then later on I create the battery bay, aligning the battery bay (I realised the ba](#2026-10-18-worked-on-sorting-out-the-electronic-components-f)
-7. [2026-10-18 – Work session](#2026-10-18-work-session)
+7. [2026-10-18 – I added the two replaceable hilt covers to my design and carved patterns onto them. I STRUGGLE with one stubborn hexagon before I realise that I can just.....select the bodies together before atternin](#2026-10-18-i-added-the-two-replaceable-hilt-covers-to-my-des)
 8. [2026-10-18 – Work session](#2026-10-18-work-session)
 9. [2026-10-18 – Work session](#2026-10-18-work-session)
 10. [2026-10-18 – I spend some time updating my read me, getting my files in order and checking everything one last time, which took me a bit, k fine a WHILE the fact that I KEPT checking the alignments of my component](#2026-10-18-i-spend-some-time-updating-my-read-me-getting-my-)
@@ -151,11 +151,19 @@ The new battery bay
 
 [Timelapse](https://lookout.hackclub.com/api/media/0ba854dd-cbaa-45ed-a0be-5d07c7171810/video.mp4)
 
-### 2026-10-18 – Work session
+### 2026-10-18 – I added the two replaceable hilt covers to my design and carved patterns onto them. I STRUGGLE with one stubborn hexagon before I realise that I can just.....select the bodies together before atternin
 
 **1.03h**
 
-Work session
+I added the two replaceable hilt covers to my design and carved patterns onto them. I STRUGGLE with one stubborn hexagon before I realise that I can just.....select the bodies together before atterning, the spiral on the other hand was incredible straightforward (luckily)
+
+![grip 1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/9a38df320c1cd10473c95f9063c0f26ff04a709ac42bd4bdcf13feff77663002.png)
+
+![grip-2](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/3bafa664c4de7b3347c02172af8624ed0a7b932eb546f92039059e1634c051d1.png)
+
+![sword with grip 1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/57d5cf61f62a079db14fc3f43a3f9d3f6042569628dbe65ccb9d66e4d708250b.png)
+
+![grip 2](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/dca69a77c3d0843e1fad458682758e8de7243ba0b4573f6957004a32c7b22fb2.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/7c6148d1-1d46-43cc-ab21-62ea7faac811/video.mp4)
 
