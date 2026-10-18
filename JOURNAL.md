@@ -17,7 +17,7 @@
 1. [2026-10-14 – Okay so initially I planned to make an iron man inspired robot hand I had a sketch and everything before I realised that this was way outside my skill set cuz well I had very little experience with 3d](#2026-10-14-okay-so-initially-i-planned-to-make-an-iron-man-i)
 2. [2026-10-14 – I learnt and figured out the basics of fusion, I struggle with trying to figure out how to set dimensions and also how to align things with respect to the axes (this takes me a while to understand). I](#2026-10-14-i-learnt-and-figured-out-the-basics-of-fusion-i-s)
 3. [2026-10-15 – Now that I was done with the hilt I moved onto the next part of my problem, the retractable blade part. I had a few ideas however I was unsure how to proceed, some investigating later I decided that I](#2026-10-15-now-that-i-was-done-with-the-hilt-i-moved-onto-th)
-4. [2026-10-16 – Work session](#2026-10-16-work-session)
+4. [2026-10-16 – Now that I was done with the modelling and had a rough idea of what I was doing, I now moved onto working on my retractable blade in my model, the blades were hollow cylinders that had different radii](#2026-10-16-now-that-i-was-done-with-the-modelling-and-had-a-)
 5. [2026-10-17 – Work session](#2026-10-17-work-session)
 6. [2026-10-18 – Work session](#2026-10-18-work-session)
 7. [2026-10-18 – Work session](#2026-10-18-work-session)
@@ -68,9 +68,23 @@ However, I realised that since the lightsaber was already cylindrical I could ju
 
 The first image showcases an expanded view whereas the second and third images showcase retracted views (in the second image the part of the rough diagram representing the sword was extended so as to showcase the components being moved inwards more clearly (this is possible because the black part is not true to size and is present solely to represent the hilt)
 
-### 2026-10-16 – Work session
+### 2026-10-16 – Now that I was done with the modelling and had a rough idea of what I was doing, I now moved onto working on my retractable blade in my model, the blades were hollow cylinders that had different radii
 
 **2.52h**
+
+Now that I was done with the modelling and had a rough idea of what I was doing, I now moved onto working on my retractable blade in my model, the blades were hollow cylinders that had different radii on base and top (so not exactly a cylinder ig). I could not figure out how to get the dimensions right as if I tried to draw a rectangle I would not be able to have the two sides be different lengths. If I took lines the angles would be off I soon realised it was best to draw lines along the axes however have the ther sides be randomly placed in estimated positions (that are not at right angles) and it was fine!!. Made blades 1,2,3,4 and their printable versions also arranged the sword regularly and as an extended version.
+
+![tube 1 done](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/aca6a8f778fd909406a6d3c3f6f9b552c9add96e241bd359bd106aa299ae747b.png)
+
+![blade 2 added](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/ccf6c6878c645fc03054ed877abc73646d5d46e068b44a49a5b2c9fe94d176da.png)
+
+![blade 3 done](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/b9575653d76a9b62efce6cd5aa490b33f0a055e9ad1329be984e2b7f45c9816e.png)
+
+![blade 4 done](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/170e0aa959869dd57c7756b9083aac16f937a9751a0b32880360e24972067436.png)
+
+![finished saber basicwithout led](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/43890eceaeba2f2bf38c73774cdd763062153e3bb0002598aa0d29c675c1c4b1.png)
+
+![lightsaber extended](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/b9c2ff516ca3d5a92b9496004d372bbe17af27bf7941577ebf4dbd6a94ad72d2.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/86160d37-7893-4af3-8c20-46f255d18118/video.mp4)
 
