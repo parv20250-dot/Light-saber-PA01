@@ -120,6 +120,8 @@ There were a few interferences that had to be fixed by moving the components aro
 
 Next on my string of misfortunes was something which I still do not understand, there was a mystery ring at the base of my hilt, It was not supposed to be inside as that caused errors, it also was not supposed to be where it was for it was just floating about in space, so I decided (after extensive digging, including looking at the timeline to just delete it, this decision triggered its own string of problems as...deleting it somehow made my sleeve be COMPLETELY misaligned in both directions, so I decide to just keep it and not print it as it is too late in my design to change anything now.) It also caused an UNGODLY amount of interferences that I could not for the life of me fix.
 
+![mysetry ring](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/c8c6deded6eb7a1ede24410a3943f70effcc953c8166eaf1a09864c4b16dd1b2.png)
+
 [Timelapse](https://lookout.hackclub.com/api/media/56f8b491-45f9-4cfb-8fe3-a79aebc2b22f/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/14d8ac99-9530-4d74-b16a-4614b63c79c1/video.mp4)
