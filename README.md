@@ -1,9 +1,10 @@
 # Light-saber-PA01
 I try my hand at making a Jedi lightsaber that is 3d printed, it has an led in order to make it glow, a retractable blade and a changeable hilt design (cover).
 Hello person that has stumbled onto my Github repo, may thine eyes be opened to the magical world of star wars, I'm joking (mostly) but below you will find a short overview of my project and the bill of materials that are required in order to build it. 
-#TODO_add images 
+<img width="577" height="107" alt="grip-2" src="https://github.com/user-attachments/assets/0744a7c5-b920-4afa-8787-f9614b071e77" />
+
 So as mentioned above I try to combine different features I have seen online in 3d models of lightsabers into one super cool light saber (a retractable blade AND LED lights)!! I also add a hilt cover which could be used in order to change the design of the hilt if one ever feels inclined to do so. The lightsaber is made up of 12 main parts:-
-The base of the hilt, the handle, the top of the hilt, four different blade pieces (each 140 mm in length) allowing for the blade to be retractable, a battery bay, a lid for the battery bay and two different hilt covers (#TODO MAYBE MAKE IT ONE).
+The base of the hilt, the handle, the top of the hilt, four different blade pieces (each 140 mm in length) allowing for the blade to be retractable, a battery bay, a lid for the battery bay and two different hilt covers.
 
 The retractable blades work via a telescope mechanism where the base of each blade part is slightly wider than the tip of the preceding blade part, allowing it to be set in place and easily retract back inwards.
 <img width="702" height="281" alt="extended" src="https://github.com/user-attachments/assets/78bf66ee-c9fe-4c62-81eb-2ea7b2f14c71" />
