@@ -15,7 +15,10 @@ The retractable blades work via a telescope mechanism where the base of each bla
 The above images are reference sketches that I made on Tinkercad, so as to visualise my blade. (NOTE- Later on I added a fourth tube piece which is not shown in the above rough sketches).
 
 The LED mechanism is set up in such a manner that the light turns on only when the button is pressed (this is done so as to save battery though the battery is removable having an on switch such that would allow it to be on indefinitely is not cost efficient, however the tactile button could be swapped for a flip switch). Below is a rough schematic of all the electrical components involved in the Light saber.
+
 <img width="384" height="309" alt="electrical components" src="https://github.com/user-attachments/assets/064e3bde-943c-45ca-8873-ca4f44bfeb78" />
+
+
 These have been arranged in the battery bay.
 
 ## <ins>Why was this project made?<ins>
@@ -34,5 +37,5 @@ This project is partly a passion project for it is something I have always thoug
 |SUNLU PETG filament 1.75mm, less elongation, good adhesion between layers, high toughness Filament for 3D printers 1.75|1  |Amazon     |$17.50   |$17.50    |https://www.amazon.se/SUNLU-PETG-filament-vidh%C3%A4ftning-3D-skrivare-transparent/dp/B0FMD83Q3X?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1WHC7QIIP8JCJ&th=1|
                                                                                           |1  |           |         |$0.00     |                                                                                                                                                                       |
 
-NOTE- Black PLA filament might also be necessary
+<ins>NOTE- Black PLA filament might also be necessary<ins>
 
