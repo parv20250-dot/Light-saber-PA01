@@ -1,4 +1,4 @@
-# Light-saber-PA01
+# <ins>Light-saber-PA01<ins>
 I try my hand at making a Jedi lightsaber that is 3d printed, it has an led in order to make it glow, a retractable blade and a changeable hilt design (cover).
 Hello person that has stumbled onto my Github repo, may thine eyes be opened to the magical world of star wars, I'm joking (mostly) but below you will find a short overview of my project and the bill of materials that are required in order to build it. 
 <img width="565" height="149" alt="image" src="https://github.com/user-attachments/assets/7c2103e7-cea2-45a5-ad03-2f4214ccbc3d" />
@@ -18,10 +18,10 @@ The LED mechanism is set up in such a manner that the light turns on only when t
 <img width="384" height="309" alt="electrical components" src="https://github.com/user-attachments/assets/064e3bde-943c-45ca-8873-ca4f44bfeb78" />
 These have been arranged in the battery bay.
 
-Why was this project made?
+## <ins>Why was this project made?<ins>
 This project is partly a passion project for it is something I have always thought was a rather cool DIY idea. However, it was made as a submission for the Half Life event organised by HackClub.
 
-BOM 
+## <ins>BOM <ins>
 |Item                                                                                                                   |Qty|Supplier   |Cost/item|Total Cost|link                                                                                                                                                                   |
 |-----------------------------------------------------------------------------------------------------------------------|---|-----------|---------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Battery Li-Ion 18650 cell 3.6V 2600mAh                                                                                 |1  |electro:kit|$4.40    |$4.40     |https://www.electrokit.com/batteri-li-ion-18650-cell-3.6v-2600mah?srsltid=AU7gw4Xs1St4TV6LuTSYxR-tR9EbXAGYY6QbvueZsjqEHusBNJzCNLrcnV0                                  |
