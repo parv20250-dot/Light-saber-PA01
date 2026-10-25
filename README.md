@@ -24,6 +24,10 @@ These have been arranged in the battery bay.
 ## <ins>Why was this project made?<ins>
 This project is partly a passion project for it is something I have always thought was a rather cool DIY idea. However, it was made as a submission for the Half Life event organised by HackClub.
 
+## <ins> Credit<ins>
+
+All of the CAD files have been designed by me so has the battery housing. I have taken inspiration from different designs online. The replaceable hilt design and idea is entirely my own.
+
 ## <ins>BOM <ins>
 |Item                                                                                                                   |Qty|Supplier   |Cost/item|Total Cost|link                                                                                                                                                                   |
 |-----------------------------------------------------------------------------------------------------------------------|---|-----------|---------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
